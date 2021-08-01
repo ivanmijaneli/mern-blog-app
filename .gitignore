@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+client/node_modules
+
+# Logs
+*.log
+
+# production
+client/build
+
+# variables
+.env
+client/cypress.json
