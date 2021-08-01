@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@hookform/resolvers": "^0.1.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "history": "^4.6.3",
     "query-string": "^6.13.1",
     "react": "^16.12.0",
